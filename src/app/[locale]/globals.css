@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Hide scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.text-border {
+  color: transparent; /* Makes the text fill transparent */
+  -webkit-text-stroke: 1px rgb(18 46 191 / 13%); /* Border thickness and color */
+}
+.swiper-pagination {
+  position: static !important;
+}
+
+.swiper-container {
+  width: 100%;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* width */
+.scroll-shape::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+/* Track */
+.scroll-shape::-webkit-scrollbar-track {
+  background: transparent; 
+  margin: 4px;
+}
+ 
+/* Handle */
+.scroll-shape::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 20000000px;
+}
+
+/* Handle on hover */
+.scroll-shape::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+.group:hover .dropdown {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto; /* Allow interactions when visible */
+}
+
+.dropdown {
+  opacity: 0;
+  transform: translateY(-20px);
+  pointer-events: none; /* Prevent interactions when hidden */
+  transition: opacity 0.3s ease, transform 0.5s ease;
+}

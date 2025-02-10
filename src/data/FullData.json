@@ -1,0 +1,717 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": {
+        "en": "MDN2366 Foundation Shuttering Work",
+        "ar": "أعمال صب الأساسات لموقع MDN2366"
+      },
+      "description": {
+        "en": "Completion of foundation shuttering work at Site ID MDN2366 to ensure structural stability and load-bearing capacity.",
+        "ar": "إتمام أعمال صب الأساسات في موقع MDN2366 لضمان الاستقرار الهيكلي وقدرة التحمل."
+      },
+      "features": {
+        "en": [
+          "Reinforced concrete shuttering for durability and strength.",
+          "Compliance with safety and engineering standards.",
+          "Efficient execution with minimal environmental impact."
+        ],
+        "ar": [
+          "تدعيم الخرسانة لتحسين المتانة والقوة.",
+          "الامتثال لمعايير السلامة والهندسة.",
+          "تنفيذ فعال مع تأثير بيئي محدود."
+        ]
+      },
+      "impact": {
+        "en": "Enhanced structural foundation, ensuring long-term site reliability.",
+        "ar": "تعزيز الأساس الهيكلي، مما يضمن موثوقية طويلة الأمد للموقع."
+      },
+      "image": "/works/w-8.png",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "MDN2366 Column Steel Installation",
+        "ar": "تركيب الأعمدة الفولاذية لموقع MDN2366"
+      },
+      "description": {
+        "en": "Installation of steel columns at Site ID MDN2366 to support vertical structures and improve load distribution.",
+        "ar": "تركيب الأعمدة الفولاذية في موقع MDN2366 لدعم الهياكل الرأسية وتحسين توزيع الأحمال."
+      },
+      "features": {
+        "en": [
+          "High-quality steel columns for enhanced structural integrity.",
+          "Precision alignment to support building framework.",
+          "Corrosion-resistant materials for long-term durability."
+        ],
+        "ar": [
+          "أعمدة فولاذية عالية الجودة لتعزيز سلامة الهيكل.",
+          "محاذاة دقيقة لدعم الإطار الإنشائي.",
+          "مواد مقاومة للتآكل لضمان المتانة على المدى الطويل."
+        ]
+      },
+      "impact": {
+        "en": "Strengthened site framework, enabling efficient and safe construction progress.",
+        "ar": "تعزيز الهيكل العام للموقع، مما يسهم في تقدم البناء بكفاءة وأمان."
+      },
+      "image": "/works/w-9.png",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "MDN2366 Team Work and Safety Compliance",
+        "ar": "فريق العمل والامتثال للسلامة في موقع MDN2366"
+      },
+      "description": {
+        "en": "Ensuring safety compliance and teamwork efficiency at Site ID MDN2366, with all personnel equipped with PPE.",
+        "ar": "ضمان الامتثال للسلامة وكفاءة العمل الجماعي في موقع MDN2366، مع تجهيز جميع العاملين بمعدات الحماية الشخصية."
+      },
+      "features": {
+        "en": [
+          "Strict adherence to occupational safety guidelines.",
+          "Regular training sessions for site personnel.",
+          "Use of certified personal protective equipment (PPE)."
+        ],
+        "ar": [
+          "الالتزام الصارم بإرشادات السلامة المهنية.",
+          "جلسات تدريبية منتظمة للموظفين في الموقع.",
+          "استخدام معدات الحماية الشخصية المعتمدة."
+        ]
+      },
+      "impact": {
+        "en": "Improved worker safety, reducing risks and enhancing productivity.",
+        "ar": "تحسين سلامة العمال، مما يقلل من المخاطر ويعزز الإنتاجية."
+      },
+      "image": "/works/w-10.png",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Fixed Access Networks (5G)",
+        "ar": "شبكات الوصول الثابتة (5G)"
+      },
+      "description": {
+        "en": "Comprehensive deployment of 5G Fixed Access Networks for both indoor and outdoor environments. TLC provides tailored solutions to meet the needs of consumer and enterprise clients.",
+        "ar": "نشر شامل لشبكات الوصول الثابتة بتقنية 5G لكل من البيئات الداخلية والخارجية. تقدم شركة TLC حلولًا مخصصة لتلبية احتياجات العملاء من الأفراد والشركات."
+      },
+      "features": {
+        "en": [
+          "End-to-end services from consultation to deployment.",
+          "Integration of telecom, IT, and cloud systems into a unified platform.",
+          "High adaptability to diverse industries like healthcare, education, and retail."
+        ],
+        "ar": [
+          "اتصال عالي السرعة مع تقليل التأخير إلى الحد الأدنى.",
+          "دعم لأنواع متعددة من وحدات CPE 5G، بما في ذلك الوحدات الداخلية والخارجية.",
+          "تكامل سلس مع البنية التحتية الحالية للاتصالات."
+        ]
+      },
+      "impact": {
+        "en": "Enabled businesses to modernize their operations with scalable, efficient solutions.",
+        "ar": "تمكين الشركات والمنازل من الحصول على اتصال 5G موثوق، مما يسهم في التحول الرقمي."
+      },
+      "image": "/projects/proj-1.webp",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "FTTH/FTTX Networks",
+        "ar": "شبكات الألياف الضوئية إلى المنزل (FTTH) أو إلى أماكن أخرى (FTTX)"
+      },
+      "description": {
+        "en": "Turnkey services for Fiber-to-the-Home (FTTH) and Fiber-to-the-X (FTTX) networks, enabling high-speed internet access for residential and commercial areas.",
+        "ar": "خدمات شاملة لتنفيذ شبكات الألياف الضوئية إلى المنزل (FTTH) والألياف الضوئية إلى أماكن أخرى (FTTX)، مما يتيح الوصول إلى الإنترنت عالي السرعة للمناطق السكنية والتجارية."
+      },
+      "features": {
+        "en": [
+          "End-to-end lifecycle services: planning, design, cabling, and maintenance.",
+          "Use of advanced fiber optic technologies to enhance speed and reliability.",
+          "Cost-effective solutions with minimal downtime during deployment."
+        ],
+        "ar": [
+          "خدمات شاملة لدورة الحياة: التخطيط، التصميم، التركيب، والصيانة.",
+          "استخدام تقنيات ألياف ضوئية متقدمة لتحسين السرعة والموثوقية.",
+          "حلول فعالة من حيث التكلفة مع تقليل فترات التوقف أثناء التنفيذ."
+        ]
+      },
+      "impact": {
+        "en": "Connected thousands of users to fast, reliable internet services across urban and rural areas.",
+        "ar": "ربط آلاف المستخدمين بإنترنت سريع وموثوق في المناطق الحضرية والريفية."
+      },
+      "image": "/projects/proj-2.png",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Microwave Communication Towers",
+        "ar": "أبراج الاتصالات الدقيقة (Microwave Communication Towers)"
+      },
+      "description": {
+        "en": "High-capacity Microwave Towers for robust communication networks, supporting both Point-to-Point (PTP) and Point-to-Multipoint (PTMP) configurations.",
+        "ar": "أبراج اتصالات عالية السعة لتوفير شبكات اتصالات قوية، تدعم أنظمة نقطة إلى نقطة (PTP) ونقطة إلى عدة نقاط (PTMP)."
+      },
+      "features": {
+        "en": [
+          "Designed for extreme environmental conditions.",
+          "Supports high-bandwidth applications like video streaming and real-time communication.",
+          "Customizable heights and designs to suit project requirements."
+        ],
+        "ar": [
+          "مصممة لتحمل الظروف البيئية القاسية.",
+          "دعم التطبيقات ذات النطاق الترددي العالي مثل بث الفيديو والتواصل في الوقت الفعلي.",
+          "تصاميم قابلة للتخصيص لتلبية متطلبات المشاريع."
+        ]
+      },
+      "impact": {
+        "en": "Ensured seamless communication for industries like telecom, defense, and broadcasting.",
+        "ar": "توفير اتصال سلس للصناعات مثل الاتصالات والدفاع والبث التلفزيوني."
+      },
+      "image": "/projects/proj-3.jpg",
+      "url": "#"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Remote Fiber Testing Systems (RFTS)",
+        "ar": "أنظمة اختبار الألياف الضوئية عن بُعد (RFTS)"
+      },
+      "description": {
+        "en": "Deployment of advanced Remote Fiber Testing Systems to ensure the integrity and performance of fiber optic networks.",
+        "ar": "تنفيذ أنظمة اختبار الألياف الضوئية عن بُعد لضمان سلامة وأداء شبكات الألياف الضوئية."
+      },
+      "features": {
+        "en": [
+          "Real-time fault detection and performance monitoring.",
+          "Reduces downtime by enabling proactive maintenance.",
+          "Scalable solutions for small and large networks."
+        ],
+        "ar": [
+          "اكتشاف الأعطال ومراقبة الأداء في الوقت الفعلي.",
+          "تقليل فترات التوقف من خلال الصيانة الاستباقية.",
+          "حلول قابلة للتطوير للشبكات الصغيرة والكبيرة."
+        ]
+      },
+      "impact": {
+        "en": "Enhanced the reliability and lifespan of fiber optic networks, saving costs for clients.",
+        "ar": "تحسين موثوقية وعمر شبكات الألياف الضوئية، مما يوفر التكاليف للعملاء."
+      },
+      "image": "/projects/proj-4.jpg",
+      "url": "#"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "GPON (Gigabit Passive Optical Networks) Deployments",
+        "ar": "نشر شبكات GPON (Gigabit Passive Optical Networks)"
+      },
+      "description": {
+        "en": "GPON solutions for high-speed broadband connectivity in residential and commercial settings.",
+        "ar": "حلول GPON لتوفير اتصال إنترنت عالي السرعة في البيئات السكنية والتجارية."
+      },
+      "features": {
+        "en": [
+          "Efficient bandwidth allocation for simultaneous high-speed internet, voice, and video services.",
+          "Low operational costs with high scalability.",
+          "Support for advanced applications like smart homes and IoT."
+        ],
+        "ar": [
+          "تخصيص فعال للنطاق الترددي لدعم خدمات الإنترنت والصوت والفيديو عالية السرعة في وقت واحد.",
+          "تكاليف تشغيل منخفضة مع قابلية عالية للتوسع.",
+          "دعم التطبيقات المتقدمة مثل المنازل الذكية وإنترنت الأشياء (IoT)."
+        ]
+      },
+      "impact": {
+        "en": "Facilitated the rollout of next-generation broadband networks in underserved areas.",
+        "ar": "تسهيل نشر شبكات الإنترنت ذات الجيل التالي في المناطق غير المخدومة بشكل كافٍ."
+      },
+      "image": "/projects/proj-5.jpg",
+      "url": "#"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Wi-Fi Network Solutions",
+        "ar": "حلول شبكات Wi-Fi"
+      },
+      "description": {
+        "en": "End-to-end Wi-Fi network solutions for enterprises, public spaces, and educational institutions.",
+        "ar": "حلول شاملة لشبكات Wi-Fi للشركات، الأماكن العامة، والمؤسسات التعليمية."
+      },
+      "features": {
+        "en": [
+          "Comprehensive coverage with optimized access point placement.",
+          "Integration with advanced security protocols to prevent unauthorized access.",
+          "Custom portals for user authentication and analytics."
+        ],
+        "ar": [
+          "تغطية شاملة مع تحسين مواقع نقاط الوصول.",
+          "تكامل مع بروتوكولات أمان متقدمة لمنع الوصول غير المصرح به.",
+          "بوابات مخصصة للمصادقة وتحليل البيانات."
+        ]
+      },
+      "impact": {
+        "en": "Delivered high-speed, secure wireless connectivity for thousands of users.",
+        "ar": "توفير اتصال لاسلكي عالي السرعة وآمن لآلاف المستخدمين."
+      },
+      "image": "/projects/proj-6.png",
+      "url": "#"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Microwave Transport Systems",
+        "ar": "أنظمة النقل الميكروويفية (Microwave Transport Systems)"
+      },
+      "description": {
+        "en": "High-capacity microwave solutions for transport layer communication, enabling seamless data transmission across long distances.",
+        "ar": "حلول ميكروويف عالية السعة لطبقة النقل، مما يتيح نقل البيانات بسلاسة عبر المسافات الطويلة."
+      },
+      "features": {
+        "en": [
+          "High throughput and low latency.",
+          "Robust designs for challenging terrains and weather conditions.",
+          "Ideal for applications like real-time video surveillance and mission-critical communications."
+        ],
+        "ar": [
+          "إنتاجية عالية وتأخير منخفض.",
+          "تصاميم قوية تناسب التضاريس الصعبة وظروف الطقس القاسية.",
+          "مثالية للتطبيقات مثل المراقبة بالفيديو في الوقت الفعلي والاتصالات الحرجة."
+        ]
+      },
+      "impact": {
+        "en": "Improved operational efficiency for industries like transportation, energy, and telecom.",
+        "ar": "تحسين الكفاءة التشغيلية للصناعات مثل النقل والطاقة والاتصالات."
+      },
+      "image": "/projects/proj-7.avif",
+      "url": "#"
+    }
+  ],
+
+  "services": [
+    {
+      "id": 1,
+      "title": {
+        "en": "ICT System Integration",
+        "ar": "تكامل نظم تكنولوجيا المعلومات والاتصالات"
+      },
+      "description": {
+        "en": "Seamless integration of Information and Communication Technology (ICT) systems tailored to client needs",
+        "ar": "تكامل سلس لأنظمة تكنولوجيا المعلومات والاتصالات (ICT) مصممة لتلبية احتياجات العملاء"
+      },
+      "features": {
+        "en": [
+          "End-to-end services from consultation to deployment.",
+          "Integration of telecom, IT, and cloud systems into a unified platform.",
+          "High adaptability to diverse industries like healthcare, education, and retail."
+        ],
+        "ar": [
+          "خدمات شاملة من الاستشارة إلى التنفيذ.",
+          "دمج أنظمة الاتصالات وتكنولوجيا المعلومات والسحابة في منصة موحدة.",
+          "قابلية التكيف العالية مع الصناعات المتنوعة مثل الرعاية الصحية والتعليم والتجزئة."
+        ]
+      },
+      "impact": {
+        "en": "Enabled businesses to modernize their operations with scalable, efficient solutions.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-1.jpg",
+      "icon": "/sectorsIcons/icon-1.png",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Telecom Infrastructure",
+        "ar": "بنية الاتصالات التحتية"
+      },
+      "description": {
+        "en": "Wireless Solutions: Deployment of 5G and Open RAN solutions for indoor and outdoor networks. High-speed microwave transport systems for real-time communication. Wireline Solutions: GPON and XGSPON for fiber optic networks. SDWAN and MPLS core network solutions for enterprises.",
+        "ar": "حلول لاسلكية: نشر حلول 5G و Open RAN للشبكات الداخلية والخارجية. أنظمة نقل الميكروويف عالية السرعة للاتصال في الوقت الفعلي. حلول سلكية: GPON و XGSPON لشبكات الألياف البصرية. حلول شبكة أساسية SDWAN و MPLS للشركات."
+      },
+      "features": {
+        "en": [
+          "Enabling seamless expansion of telecom infrastructure to support growing data demands.",
+          "Real-time monitoring and threat detection to ensure network integrity and performance.",
+          "Tailored networking solutions to meet the specific needs of large-scale enterprises."
+        ],
+        "ar": [
+          "تمكين التوسع السلس للبنية التحتية للاتصالات لدعم الطلب المتزايد على البيانات.",
+          "المراقبة في الوقت الفعلي واكتشاف التهديدات لضمان سلامة الشبكة وأدائها.",
+          "حلول شبكات مخصصة لتلبية احتياجات الشركات الكبرى."
+        ]
+      },
+      "impact": {
+        "en": "Built resilient, future-ready networks for small and large organizations.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-2.jpg",
+      "icon": "/sectorsIcons/icon-2.png",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Cloud Telephony & CRM",
+        "ar": "الهاتف السحابي وإدارة علاقات العملاء"
+      },
+      "description": {
+        "en": "Cloud-based telephony systems integrated with Customer Relationship Management (CRM) platforms.",
+        "ar": "أنظمة الهاتف السحابي المتكاملة مع منصات إدارة علاقات العملاء (CRM)."
+      },
+      "features": {
+        "en": [
+          "Streamlined communication channels for businesses.",
+          "Scalable cloud solutions supporting remote work and global teams.",
+          "Integration with CRM for unified customer interaction management."
+        ],
+        "ar": [
+          "قنوات الاتصال المبسطة للأعمال.",
+          "حلول سحابية قابلة للتوسع تدعم العمل عن بُعد والفرق العالمية.",
+          "الدمج مع CRM لإدارة تفاعلات العملاء الموحدة."
+        ]
+      },
+      "impact": {
+        "en": "Improved customer engagement and operational efficiency for businesses.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-3.jpg",
+      "icon": "/sectorsIcons/icon-3.png",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Artificial Intelligence (AI) & IoT",
+        "ar": "الذكاء الاصطناعي (AI) وإنترنت الأشياء (IoT)"
+      },
+      "description": {
+        "en": "Cutting-edge AI and IoT solutions to drive automation and innovation.",
+        "ar": "حلول الذكاء الاصطناعي وإنترنت الأشياء المتطورة لدفع الأتمتة والابتكار."
+      },
+      "features": {
+        "en": [
+          "AI-powered analytics for decision-making.",
+          "IoT-enabled devices for smart city and smart home applications.",
+          "Real-time data collection and predictive maintenance."
+        ],
+        "ar": [
+          "تحليلات مدعومة بالذكاء الاصطناعي لاتخاذ القرارات.",
+          "أجهزة مدعومة بـ IoT لتطبيقات المدينة الذكية والمنزل الذكي.",
+          "جمع البيانات في الوقت الفعلي والصيانة التنبؤية."
+        ]
+      },
+      "impact": {
+        "en": "Enabled smarter cities, homes, and industries with data-driven intelligence.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-4.avif",
+      "icon": "/sectorsIcons/icon-4.png",
+      "url": "#"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Robotics & Process Automation",
+        "ar": "الروبوتات وأتمتة العمليات"
+      },
+      "description": {
+        "en": "Advanced robotic solutions and process automation for repetitive tasks.",
+        "ar": "حلول روبوتية متقدمة وأتمتة العمليات للمهام المتكررة."
+      },
+      "features": {
+        "en": [
+          "Robotic Process Automation (RPA) for improved efficiency.",
+          "Customizable robots for industrial applications.",
+          "Integration with AI for adaptive learning."
+        ],
+        "ar": [
+          "أتمتة العمليات الروبوتية (RPA) لتحسين الكفاءة.",
+          "روبوتات قابلة للتخصيص للتطبيقات الصناعية.",
+          "الدمج مع الذكاء الاصطناعي للتعلم التكيفي."
+        ]
+      },
+      "impact": {
+        "en": "Reduced operational costs and human error in manufacturing and logistics.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-5.webp",
+      "icon": "/sectorsIcons/icon-5.png",
+      "url": "#"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Unified Communications",
+        "ar": "الاتصالات الموحدة"
+      },
+      "description": {
+        "en": "Integrated communication platforms for businesses to streamline operations.",
+        "ar": "منصات الاتصال المتكاملة للشركات لتبسيط العمليات."
+      },
+      "features": {
+        "en": [
+          "Instant messaging, voice, video, and collaboration tools in one system.",
+          "Custom branding options for business communication platforms.",
+          "Cloud-based deployment for scalability and remote accessibility."
+        ],
+        "ar": [
+          "الرسائل الفورية والصوت والفيديو وأدوات التعاون في نظام واحد.",
+          "خيارات العلامة التجارية المخصصة لمنصات الاتصال التجارية.",
+          "النشر السحابي للتوسع وإمكانية الوصول عن بُعد."
+        ]
+      },
+      "impact": {
+        "en": "Enhanced team collaboration and customer satisfaction.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-6.png",
+      "icon": "/sectorsIcons/icon-6.png",
+      "url": "#"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Data Centers and Virtualization",
+        "ar": "مراكز البيانات والتخزين الافتراضي"
+      },
+      "description": {
+        "en": "Comprehensive data center solutions, including virtualization and infrastructure management.",
+        "ar": "حلول شاملة لمراكز البيانات، بما في ذلك الافتراضية وإدارة البنية التحتية."
+      },
+      "features": {
+        "en": [
+          "Scalable storage and computing solutions.",
+          "Disaster recovery systems and backup services.",
+          "Energy-efficient designs for reduced operational costs."
+        ],
+        "ar": [
+          "حلول تخزين وحوسبة قابلة للتوسع.",
+          "أنظمة استرداد الكوارث وخدمات النسخ الاحتياطي.",
+          "تصاميم موفرة للطاقة لتقليل التكاليف التشغيلية."
+        ]
+      },
+      "impact": {
+        "en": "Improved data availability, security, and cost management.",
+        "ar": "توسيع العمليات وتحسين تجربة العميل."
+      },
+      "image": "/services/serv-7.jpg",
+      "icon": "/sectorsIcons/icon-7.png",
+      "url": "#"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Saudi Arabia to Launch Riyadh Metro in a Few Weeks",
+        "ar": "المملكة تستهدف أن تكون مركزا لوجستيا عالميا"
+      },
+      "description": {
+        "en": "Saudi Minister of Transport, Saleh Al-Jasser, announced that the Riyadh Metro is set to open in a few weeks, with trial operations currently underway. In an interview with during the Global Logistics Forum in Riyadh, Al-Jasser described the metro project as exceptional and historic.",
+        "ar": "المملكة تستهدف أن تكون مركزا لوجستيا عالميا قال وزير النقل السعودي صالح الجاسر، إن افتتاح مترو الرياض خلال أسابيع قليلة، ويجري العمل حاليا من عمليات التشغيل التجريبي. وأضاف الجاسر في مقابلة مع  على هامش فعاليات المنتدى اللوجستي العالمي في الرياض، أن مشروع المترو هو مشروع استثنائي وتاريخي."
+      },
+      "image": "/news/n-1.png",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Saudi MODON Signs 23 Contracts to Develop New Projects",
+        "ar": "مدن السعودية تبرم 23 عقداً لتطوير مشروعات جديدة"
+      },
+      "description": {
+        "en": "The Saudi Authority for Industrial Cities and Technology Zones (MODON) has signed 23 contracts with the private sector, valued at over SAR 1.7 billion (approximately $454 million). These contracts aim to develop and complete infrastructure and superstructure projects in several industrial cities. This initiative aligns with MODON's ambitious 2024 development plans to enhance the investment environment in industrial cities through partnerships with public and private sectors. It supports the objectives of the National Industrial Strategy and Saudi Vision 2030, as reported by the Saudi Press Agency (SPA). The new projects are designed to streamline business operations, reduce operational burdens on investors, and open new horizons for industrial innovation. These efforts will enhance sustainable development and boost production capacities within the industrial sector.",
+        "ar": "أبرمت الهيئة السعودية للمدن الصناعية ومناطق التقنية «مدن»، 23 عقداً مع القطاع الخاص بقيمة تتجاوز 1.7 مليار ريال (نحو 454 مليون دولار)، لتطوير واستكمال مشروعات بنى تحتية وفوقية في عدد من المدن الصناعية. جاء ذلك وفق خطط التطوير الطموحة التي أطلقتها «مدن» خلال 2024 لتطوير بيئة الاستثمار بالمدن الصناعية بالشراكة مع القطاعين العام والخاص تماشياً مع مستهدفات الإستراتيجية الوطنية للصناعة ورؤية المملكة 2030، وفق وكالة الأنباء السعودية (واس). وتساهم المشروعات الجديدة في تسهيل الأعمال، وتقليل الأعباء التشغيلية على المستثمرين، وفتح آفاق جديدة للابتكار الصناعي؛ بما يعزز الاستدامة التنموية، وتطوير القدرات الإنتاجية بالقطاع الصناعي."
+      },
+      "image": "/news/n-2.webp",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Saudi Construction Market Expected to Exceed $91 Billion",
+        "ar": "توقعات بنمو سوق البناء والتشييد في السعودية ليتجاوز 91 مليار دولار"
+      },
+      "description": {
+        "en": "JLL predicts transformative growth in Saudi Arabia's real estate sector, driven by Vision 2030 and significant investments in infrastructure and real estate projects. Currently valued at $70.33 billion, the construction market is expected to grow to $91.36 billion (342.6 billion SAR) by 2029. Riyadh, hosting projects worth over $20 billion, is emerging as a major investment hub. Experts anticipate a 30% increase in hotel investments, with numerous projects entering execution phases, accelerating future spending.",
+        "ar": "توقعت شركة جيه إل إل نموًا تحوليًا في قطاع العقارات بالسعودية مدفوعًا برؤية 2030 والاستثمارات الضخمة في مشاريع البنية التحتية والعقارية. وتقدّر قيمة سوق البناء والتشييد حاليًا بـ 70.33 مليار دولار، مع توقعات بنموه إلى 91.36 مليار دولار (342.6 مليار ريال) بحلول عام 2029. وتستضيف الرياض مشاريع تفوق قيمتها 20 مليار دولار، ما يجعلها مركزًا استثماريًا رئيسًا. ويتوقع الخبراء زيادة بنسبة 30% في الاستثمارات الفندقية، مع دخول العديد من المشاريع مرحلة التنفيذ، مما سيسرّع معدلات الإنفاق المستقبلي."
+      },
+      "image": "/news/n-3.jpg",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Completion of Saudi Arabias Largest Open Mall by End of 2025",
+        "ar": "الانتهاء من تنفيذ أكبر مول مفتوح في السعودية بنهاية 2025"
+      },
+      "description": {
+        "en": "The final phase of 'Souq 7,' the largest open mall in Saudi Arabia by area, is set to be completed in Jeddah by the end of 2025. Located at Kilometer 7, the mall currently houses 1,200 stores, with plans to add 2,000 more by Q1 2025. Upon full operation, the mall is expected to capture 12% of the total market share for malls in Jeddah and Makkah, estimated at SAR 18 billion. Spanning over 700,000 square meters, the mall includes 114 buildings, with a leasable area of 400,000 square meters and a development cost of SAR 1.5 billion. The project aims to achieve annual retail sales exceeding SAR 2 billion and create over 24,000 jobs.",
+        "ar": "ينتظر الانتهاء من المرحلة الأخيرة لمشروع مول \"سوق 7\" في جدة، الذي يعد أكبر مول مفتوح في السعودية من حيث المساحة، بحلول نهاية 2025. يقع المول في كيلو 7 بجدة ويضم حاليًا 1200 متجر، مع خطط لافتتاح 2000 متجر جديد بحلول الربع الأول من 2025. عند تشغيله بكامل طاقته، يتوقع أن تصل الحصة السوقية للمول إلى 12% من إجمالي الحصة السوقية للمولات في جدة ومكة المقدرة بـ 18 مليار ريال. يمتد المشروع على مساحة تزيد عن 700 ألف متر مربع، بمساحة تأجيرية تبلغ 400 ألف متر مربع، وبتكلفة 1.5 مليار ريال. يهدف المشروع لتحقيق مبيعات سنوية في قطاع التجزئة تتجاوز ملياري ريال، بالإضافة إلى خلق أكثر من 24 ألف فرصة عمل."
+      },
+      "image": "/news/n-4.jpg",
+      "url": "#"
+    }
+  ],
+  "policies": [
+    {
+      "id": 1,
+      "title": {
+        "en": "ISO Standards",
+        "ar": "معايير الأيزو"
+      },
+      "policies": {
+        "en": [
+          "Certified under **ISO 45001**, ensuring compliance with global health, safety, and environmental standards.",
+          "Policies aligned with best practices in internal auditing and operational efficiency."
+        ],
+        "ar": [
+          "معتمد بموجب **ISO 45001**، مما يضمن الامتثال للمعايير العالمية للصحة والسلامة والبيئة.",
+          "سياسات متوافقة مع أفضل الممارسات في التدقيق الداخلي وكفاءة العمليات."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Governance & Transparency",
+        "ar": "الحوكمة والشفافية"
+      },
+      "policies": {
+        "en": [
+          "Multi-layered auditing systems ensure accountability across all projects.",
+          "Regular reporting to stakeholders highlighting key metrics and areas for improvement."
+        ],
+        "ar": [
+          "أنظمة تدقيق متعددة المستويات تضمن المساءلة في جميع المشاريع.",
+          "تقارير منتظمة للمساهمين تسلط الضوء على المقاييس الرئيسية ومجالات التحسين."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Continuous Improvement",
+        "ar": "التحسين المستمر"
+      },
+      "policies": {
+        "en": [
+          "Leveraging data-driven insights to optimize internal processes.",
+          "Regular reviews of policies to adapt to emerging industry trends."
+        ],
+        "ar": [
+          "استخدام رؤى مستندة إلى البيانات لتحسين العمليات الداخلية.",
+          "مراجعات منتظمة للسياسات للتكيف مع الاتجاهات الناشئة في الصناعة."
+        ]
+      }
+    }
+  ],
+  "auditingPhases": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Phase 1 - Planning",
+        "ar": "المرحلة 1 - التخطيط"
+      },
+      "description": {
+        "en": "Comprehensive risk identification and audit scope definition",
+        "ar": "تحديد شامل للمخاطر وتحديد نطاق التدقيق"
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Phase 2 - Execution",
+        "ar": "المرحلة 2 - التنفيذ"
+      },
+      "description": {
+        "en": "Detailed evaluations of compliance with international standards.",
+        "ar": "تقييمات مفصلة للامتثال للمعايير الدولية."
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Phase 3 - Reporting",
+        "ar": "المرحلة 3 - الإبلاغ"
+      },
+      "description": {
+        "en": "Transparent documentation of findings with actionable recommendations.",
+        "ar": "توثيق شفاف للنتائج مع توصيات قابلة للتنفيذ."
+      }
+    }
+  ],
+  "healthAndSafety": [
+    {
+      "id": 1,
+      "title": {
+        "en": "ISO Certification",
+        "ar": "شهادة الأيزو"
+      },
+      "standards": {
+        "en": [
+          "Compliance with **ISO 45001**, showcasing our commitment to safety and environmental responsibility."
+        ],
+        "ar": [
+          "الامتثال لمعايير **ISO 45001**، مما يظهر التزامنا بالسلامة والمسؤولية البيئية."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Employee Safety Programs",
+        "ar": "برامج سلامة الموظفين"
+      },
+      "standards": {
+        "en": [
+          "Regular training sessions for employees on workplace safety practices.",
+          "Health monitoring and preventive care initiatives."
+        ],
+        "ar": [
+          "جلسات تدريب منتظمة للموظفين على ممارسات السلامة في مكان العمل.",
+          "مبادرات لمراقبة الصحة والرعاية الوقائية."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Operational Safety",
+        "ar": "السلامة التشغيلية"
+      },
+      "standards": {
+        "en": [
+          "Efficient warehousing and logistics to minimize risks.",
+          "Advanced service centers equipped for the maintenance of splicing machines and other critical tools."
+        ],
+        "ar": [
+          "مستودعات وخدمات لوجستية فعالة لتقليل المخاطر.",
+          "مراكز خدمة متقدمة مجهزة لصيانة آلات الربط والأدوات الحيوية الأخرى."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Emergency Preparedness",
+        "ar": "الاستعداد للطوارئ"
+      },
+      "standards": {
+        "en": [
+          "On-site medical facilities for immediate response.",
+          "Contingency plans for emergencies, ensuring business continuity."
+        ],
+        "ar": [
+          "منشآت طبية في الموقع للاستجابة الفورية.",
+          "خطط طوارئ لضمان استمرارية الأعمال."
+        ]
+      }
+    }
+  ]
+}
