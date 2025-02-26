@@ -17,17 +17,7 @@ export default function Footer() {
     },
     {
       icon: <FaPhone />,
-      title: "+966 55 613 6600",
-      link: "tel:+966556136600",
-    },
-    {
-      icon: <FaPhone />,
-      title: "+966 57 049 3675",
-      link: "tel:+966570493675",
-    },
-    {
-      icon: <FaFax />,
-      title: "+966500194017",
+      title: "+966 50 019 4017",
       link: "tel:+966500194017",
     },
     {
